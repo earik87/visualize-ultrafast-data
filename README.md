@@ -3,5 +3,5 @@ Interactive Time-Resolved Data Preview Tool in Python
 
 Mock-up 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/mockup.png)
 Format: ![Alt Text](url)
