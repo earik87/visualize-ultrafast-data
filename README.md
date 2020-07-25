@@ -1,7 +1,7 @@
 # Visualize Ultrafast Data
 
-This is an interactive dashboard visualizing ultrafast spectroscopy data. 
-Note; The project is still in beta version. But you can already try it and give feedback. This is how we improve the dashboard.
+This is an interactive dashboard visualizing ultrafast spectroscopy data.<br />  
+**Note**; The project is still in beta version. But you can already try it and give feedback. This is how we improve the dashboard.
 
 ## Getting Started
 
