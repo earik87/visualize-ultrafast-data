@@ -10,10 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 TODO
-Python version (higher than 3.0.0).
-Jupyter Notebook.
-..
-..
 
 ## Built With
 
