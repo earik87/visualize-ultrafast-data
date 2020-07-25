@@ -1,6 +1,7 @@
 # Visualize Ultrafast Data
 
-This is an interactive dashboard visualizing ultrafast spectroscopy data.<br />  
+This is an interactive dashboard visualizing ultrafast spectroscopy data.<br/>  
+Additionally, it allows you to plot publishable quality figures.<br/>  
 **Note**; The project is still in beta version. But you can already try it and give feedback.
 
 ![Dashboard](/screenshot_dashboard.png?raw=true)
