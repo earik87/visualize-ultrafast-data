@@ -1,6 +1,4 @@
-# py-tr-data-preview-tool
-Interactive Time-Resolved Data Preview Tool in Python
+# Visualize Ultrafast Data
 
-Mock-up 
+This is an interactive dashboard visualizing ultrafast spectroscopy data.
 
-![Design mockup](/mockup.png)
