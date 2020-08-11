@@ -10,14 +10,14 @@ Go and try the dashboard from [here](https://visud.herokuapp.com/vis_ultrafast_d
 
 For dashboard users, you do not need anything other than browser.
 For developers who want to improve this app or develop their own, followings are needed;
-- Python (source code is in Python language)
-- Jupyter Notebook (to visualize the plots)
-- Panel and Holoviews from holoviz.
+- Python (source code is in Python language).
+- Jupyter Notebook.
+- Panel and Holoviews from holoviz family.
 - Heroku (for deployment).
 
 ## Built With
 
-The dashboard is built on a high-level python apps; [panel](https://panel.holoviz.org/), [holoviews](http://holoviews.org/index.html).
+The dashboard is built on a high-level python apps; [panel](https://panel.holoviz.org/), [holoviews](http://holoviews.org/index.html).<br/>
 Deployment is provided by [heroku](https://www.heroku.com/). For deployment instructions, check out [minimal heroku demo](https://github.com/pyviz-demos/minimal-heroku-demo).
 
 ## Contributing
