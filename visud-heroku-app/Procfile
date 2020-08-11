@@ -1,0 +1,1 @@
+web: panel serve --address="0.0.0.0" --port=$PORT vis_ultrafast_data.ipynb --allow-websocket-origin=visud.herokuapp.com
