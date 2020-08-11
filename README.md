@@ -7,7 +7,7 @@ Go and try the dashboard from [here](https://visud.herokuapp.com/vis_ultrafast_d
 
 ### Prerequisites
 
-For dashboard users, you do not need anything other than browser.
+For end-users, you do not need anything other than a browser.<br/>
 For developers who want to improve this app or develop their own, followings are needed;
 - Python (source code is in Python language).
 - Jupyter Notebook.
