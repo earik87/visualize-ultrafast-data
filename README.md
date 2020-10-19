@@ -1,7 +1,7 @@
 # Visualize Ultrafast Data
 
 This is an interactive dashboard visualizing ultrafast spectroscopy data. Plus, it allows you to plot publishable quality figures.<br/>  
-Go and try the dashboard from [here](https://visud.herokuapp.com/vis_ultrafast_data). Be aware that it may take about 10 seconds to load the page. 
+Go and try the dashboard from [here](https://visud.herokuapp.com/vis_ultrafast_data). Be aware that it may take about 30 seconds to load the page. 
 
 ![Visud Heroku App](images/demoinaction.gif)
 
