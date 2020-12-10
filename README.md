@@ -24,6 +24,6 @@ Deployment is provided by [heroku](https://www.heroku.com/). For deployment inst
 Feel free to open issue for any problems / errors with the app. Pull requests are welcome, as well.
 
 ## Helpful links
-
+- Blog post about this web app. https://earik87.github.io/interactive-web-app/
 - Learn more about Holoviz family; http://holoviz.org/
 - Check how awesome is panel with some applications; https://awesome-panel.org/
