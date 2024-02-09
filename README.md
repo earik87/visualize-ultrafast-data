@@ -1,3 +1,6 @@
+# Archived project. No maintenance.
+This project is not maintained anymore. You may fork and make your changes, freely.
+
 # Visualize Ultrafast Data
 
 This is an interactive dashboard visualizing ultrafast spectroscopy data. Plus, it allows you to plot publishable quality figures.<br/>  
